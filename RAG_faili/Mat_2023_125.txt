@@ -1,0 +1,38 @@
+Par leņķi starp diviem nenulles vektoriem a un b sauc šo virzienu veidoto leņķi.
+
+∠(a, b) = α, kur α ∈ [0°; 180°].
+
+Ja doti divi vektori un leņķis starp tiem, tad šo vektoru skalāro reizinājumu var aprēķināt:
+
+a · b = |a| · |b| · cos α
+
+Izsaka leņķa starp vektoriem kosinusu.
+
+cos α = (a · b) / (|a| · |b|)
+
+Kosinuss leņķim starp diviem vektoriem ir vienāds ar šo vektoru skalārā reizinājuma dalījumu ar šo vektoru garumu reizinājumu.
+
+Vektoru
+
+a = (x₁; y₁; z₁) un b = (x₂; y₂; z₂)
+
+skalāro reizinājumu koordinātās var aprēķināt pēc formulas:
+
+a · b = x₁x₂ + y₁y₂ + z₁z₂
+
+Ir zināms, ka vektora garumu aprēķina:
+
+|a| = √(x₁² + y₁² + z₁²)
+
+|b| = √(x₂² + y₂² + z₂²)
+
+Ievietojot izteiksmes ar koordinātām formulā, iegūst sakarību:
+
+cos α = (x₁x₂ + y₁y₂ + z₁z₂) / ( √(x₁² + y₁² + z₁²) · √(x₂² + y₂² + z₂²) )
+
+Ja vektorus aplūko plaknē, tad leņķa starp vektoriem kosinusu aprēķina:
+
+cos α = (x₁x₂ + y₁y₂) / ( √(x₁² + y₁²) · √(x₂² + y₂²) )
+
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-ii/analitiska-geometrija-79329/vektoru-skalarais-reizinajums-79349/re-e939ed18-7f4a-4b24-beab-08095f5a67fa

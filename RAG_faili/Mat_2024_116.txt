@@ -1,0 +1,9 @@
+Funkcijas y=cosx īpašības:
+
+Funkcijas definīcijas apgabals D(y)=(−∞;+∞).
+
+Funkcija y=cosx ir pāra funkcija, t.i., cos(−x)=cos x.
+
+Periodiska funkcija ar periodu 2π, t.i., cos(x+2πn)=cosx, kur n∈Z.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/10-klase/sakne-pakape-eksponentfunkcija-logaritmiska-funkcija-trigonometriskas-funk_-4445/trigonometriskas-funkcijas-4510/re-6fa9e212-ccdd-46d6-904a-9ad7b51833e0

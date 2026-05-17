@@ -1,0 +1,28 @@
+Šaurā leņķa trigonometriskās funkcijas sinusu un kosinusu taisnleņķa trijstūrī definē šādi:
+
+sinα=pretkatete/hipotenūza
+sinα=a/c
+
+cosα=piekatete/hipotenūza
+cosα=b/c
+
+Vienības riņķi var izmantot kā instrumentu, no kura var nolasīt trigonometrisko funkciju vērtības.
+
+Pagrieziena leņķa sinusa vērtības nolasa uz y ass.
+
+Svarīgi ir prast nolasīt no riņķa šādas sinusa un kosinusa vērtības:
+
+sin0°=0 
+sin90°=1 
+sin180°=0 
+sin270°=−1 
+sin360°=0
+
+
+cos0°=1 
+cos90°=0 
+cos180°=−1 
+cos270°=0 
+cos360°=1
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometrisko-izteiksmju-parveidojumi-1002/redukcijas-formulas-13043/re-cacbb310-4b74-4232-9a5b-3a956fcf2d40

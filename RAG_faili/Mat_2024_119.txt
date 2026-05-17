@@ -1,0 +1,9 @@
+Par galīgu kopu sauc tādu kopu, kas satur galīgu skaitu elementu.
+
+Kopa {Δ; O; ⋄} satur trīs dažādus elementus.
+
+Par dotās kopas apakškopu sauc kopu, kuras visi elementi ir dotajā kopā un elementu skaits nepārsniedz dotās kopas elementu skaitu.
+
+Kopas {Δ; O; ⋄} apakškopas ir, piemēram, {Δ; O}, {O ;⋄}, {Δ;⋄}.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/7-klase/ka-nosaka-kopas-visus-elementus-aprekina-notikuma-varbutibu-32423/izlasu-veidosana-raksturosana-izlasu-skaita-noteiksana-32474/re-24e81a1e-79b6-4e2a-8484-1b4595ce73ec

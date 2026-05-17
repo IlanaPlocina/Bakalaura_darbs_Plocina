@@ -1,0 +1,17 @@
+Kustību uzdevumu atrisināšanā var izdalīt vairākus soļus:
+
+Ievieš mainīgo vai mainīgos (bieži ar x apzīmē nezināmo ātrumu, pat tad, ja tas nav prasīts kā uzdevuma atbilde).
+
+Pārējo doto informāciju uzraksta, sasaistot ar nezināmo x.
+
+No iegūtajiem apzīmējumiem sastāda vienādojumu vai vienādojumu sistēmu.
+
+Uzdevumos par kustību parasti ievēro šādus pieņēmumus:
+
+Kustība atsevišķos ceļa posmos ir vienmērīga; tādējādi veikto ceļu var aprēķināt pēc formulas s=v⋅t, kur s - ceļš, v - ātrums, t - laiks.
+
+Ja divi ķermeņi, kura ātrumi attiecīgi ir x un y, kustas vienā virzienā (dzenas viens otram pakaļ), tad ātrums ar kādu ķermeņi viens otram tuvojas ir x−y, x>y.
+
+Visos gadījumos lieto vienu un to pašu formulu s=v⋅t.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/12-klase/vienadojumu-sistemas-6879/teksta-uzdevumi-kurus-risina-ar-vienadojumu-sistemu-24436/re-a685e526-d48c-42be-818c-8460c5ff4c33

@@ -1,0 +1,16 @@
+Par trigonometrisko identitāti sauc tādu vienādību, kas satur viena argumenta vai vairāku argumentu trigonometriskās funkcijas un ir patiesa visām šo argumentu pieļaujamām vērtībām.
+
+Viena un tā paša argumenta sinusa un kosinusa kvadrātu summa ir vienāda ar 1.
+
+sin²α + cos²α = 1
+
+Šo sakarību sauc arī par trigonometrisko pamatidentitāti un tā ir patiesa jebkuram argumentam.
+
+No trigonometriskās identitātes sin²α + cos²α = 1 var secināt, ka
+
+sin²α = 1 - cos²α
+cos²α = 1 - sin²α
+
+Šīs sakarības izmanto izteiksmju vienkāršošanā.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometrisko-izteiksmju-parveidojumi-1002/trigonometriskas-pamatidentitates-13044/re-84508575-b090-4794-83e1-9c6e361d2dc5

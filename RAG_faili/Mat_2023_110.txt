@@ -1,0 +1,26 @@
+Vienādojumu ax²+bx+c=0, kur a, b un c - reāli skaitļi, a≠0, sauc par kvadrātvienādojumu.
+
+Kvadrātvienādojuma saknes var atrast pēc formulām:
+
+x₁ = (−b + √D) / 2a
+x₂ = (−b − √D) / 2a
+
+kur D=b²−4ac.
+
+D sauc par diskriminantu.
+
+Pēc diskriminanta vērtības var noteikt kvadrātvienādojuma sakņu skaitu.
+
+Ja D<0 (negatīvs), tad vienādojumam nav atrisinājuma reālo skaitļu kopā.
+
+Ja D=0, tad vienādojumam ir divas vienādas saknes.
+
+Ja D>0 (pozitīvs), tad vienādojumam ir divas dažādas saknes.
+
+Vienādojumam cosx=a eksistē atrisinājums, ja
+
+−1≤a≤1 jeb |a|≤1.
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika/10-klase/racionalas-algebriskas-izteiksmes-993/kvadratvienadojums-un-kvadrattrinoms-12974/re-89b5a5e7-2221-436c-a463-71afbf4a40e6
+2. https://www.uzdevumi.lv/p/matematika/11-klase/trigonometriskie-vienadojumi-un-pamatnevienadibas-6829/trigonometriskie-pamatvienadojumi-12977/re-7b7bd3da-dd4c-4dc0-a78c-2cd56c9ab321

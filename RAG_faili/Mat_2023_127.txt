@@ -1,0 +1,26 @@
+Nenoteikto integrāli apzīmē ar simbolu ∫f(x)dx.
+
+Tātad ∫f(x)dx=F(x)+C.
+
+Konstanta reizinātāja iznešana pirms integrāļa zīmes
+
+Ja zemintegrāļa funkcija ir kādas funkcijas un konstantes (A) reizinājums, tad konstanti var iznest pirms integrāļa zīmes:
+
+∫A⋅f(x)dx=A⋅∫f(x)dx
+
+Nenoteiktā integrāļa linearitātes īpašība
+
+Divu vai vairāku funkciju summas (starpības) nenoteiktais integrālis ir vienāds ar atsevišķo saskaitāmo funkciju integrāļu summu (starpību):
+
+∫(f1(x)±f2(x))dx=∫f1(x)dx±∫f2(x)dx
+
+Integrēšanas pamatformulas
+
+∫dx=∫1⋅dx=x+C
+
+∫xαdx=xα+1α+1+C,(α∈R,α≠−1)
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-ii/integralis-un-ta-lietojums-79327/nenoteiktais-integralis-79348/re-7b7dc2b2-3af6-4f18-9f48-d311eea080fe
+
+2. https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-ii/integralis-un-ta-lietojums-79327/nenoteiktais-integralis-79348/re-8a2659b6-6dab-4b77-bb4f-78b94a9bef96

@@ -1,0 +1,21 @@
+Par daļveida nevienādībām sauc tādas nevienādības, kurās mainīgais atrodas saucējā.
+
+Risinot daļveida nevienādību,
+
+visus locekļus pārnes vienā pusē (lai labajā pusē būtu 0);
+
+pārveido izteiksmi par daļu (izveido kopsaucēju).
+
+Iegūst nevienādību formā: f(x)g(x)<0 vai f(x)g(x)>0 vai f(x)g(x)≤0 vai f(x)g(x)≥0
+
+Risinot nevienādību ar intervālu metodi:
+
+nosaka tās x vērtības, ar kurām skaitītājs un saucējs maina zīmi (f(x)=0, g(x)=0, g(x)≠0);
+
+iegūtās x vērtības atliek uz koordinātu ass, sadalot to intervālos;
+
+katrā intervālā nosaka daļas f(x)g(x) zīmi;
+
+izvēlas intervālus, kuros ir spēkā nevienādība.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/algebriskas-nevienadibas-999/intervalu-metode-dalveida-nevienadibas-4531/re-4c4eb41c-2edc-40c4-a283-a8359b1c3070

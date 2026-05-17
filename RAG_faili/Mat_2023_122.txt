@@ -1,0 +1,7 @@
+Prizmas tilpums ir vienāds ar tās pamata laukuma un augstuma reizinājumu.
+
+V = Spam.⋅H, kur H - prizmas augstums (taisnai prizmai sānu šķautne).
+
+Lai aprēķinātu taisnas prizmas tilpumu, nepieciešams aprēķināt (vai zināt) tās pamata daudzstūra laukumu un zināt prizmas augstumu.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/9-klase/telpiskie-kermeni-3495/prizma-piramida-34891/re-b95111b6-5149-4524-8545-f9cbb7306936

@@ -1,0 +1,23 @@
+Par konusu sauc rotācijas ķermeni, kas izveidojies, taisnleņķa trijstūrim rotējot ap kateti.
+
+Trijstūris AKO rotē ap malu KO.
+
+KO ir konusa ass,
+
+KO=H - konusa augstums,
+
+K - konusa virsotne,
+
+KA=l - konusa veidule.
+
+Riņķis ar centru O ir konusa pamats.
+
+AO=R - konusa pamata rādiuss.
+
+Konusa veidule, rādiuss un augstums veido taisnleņķa trijstūri, tāpēc spēkā ir Pitagora teorēma:
+
+l²=H²+R²
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/12-klase/rotacijas-kermeni-1238/konuss-noskelts-konuss-12460/re-74883827-2c68-4f5f-b3ff-d4db953cb56b
+
+

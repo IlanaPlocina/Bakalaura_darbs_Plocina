@@ -1,0 +1,13 @@
+Taisnes vienādojumu y=kx+b sauc par taisnes vienādojumu ar virziena koeficientu.
+
+Ja ņem divus dažādus taisnes punktus M1(x1;y1) un M2(x2;y2), kuriem x1<x2, tad no divām vienādībām kx1+b=y1 un kx2+b=y2 var izteikt k vērtību:
+
+k=y2−y1 / x2−x1
+
+Paralēlām taisnēm virziena koeficients ir vienāds.
+
+Ja taisnes vienādojumā ievieto vērtību x=0, tad y=b.
+
+Koeficients b norāda taisnes punkta ordinātu (y koordinātu), ja tā abscisa (x koordināta) ir 0.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/1-kurss/analitiska-geometrija-plakne-taisnes-10406/re-b7e57818-f8e0-4497-9fbe-784094c360a6

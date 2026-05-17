@@ -1,0 +1,11 @@
+Par kombinācijām no n elementiem pa m elementiem (m≤n) sauc nesakārtotu dotās kopas m elementu izlasi.
+
+Kombināciju skaitu apzīmē ar Cmn (lasa: kombinācijas no n pa m).
+
+Kombinācijas aprēķina pēc formulas Cmn=n!/m!(n−m)!
+
+Piemērs:
+C12=2!/1!(2−1)!=2
+C24=4!/2!(4−2)!=6
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/kombinatorikas-elementi-2162/kombinacijas-permutacijas-variacijas-33228/re-0aba0cb6-d171-436a-94f8-6d7d4b156b78

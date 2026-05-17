@@ -1,0 +1,34 @@
+Varbūtību lieto, lai apzīmētu kāda notikuma realizēšanās vai nerealizēšanās ticamības pakāpi.
+
+Skaitli, kura tuvumā svārstās notikuma parādīšanās biežums, sauc par varbūtību.
+
+Klasiskais varbūtību aprēķināšanas paņēmiens
+
+Ja mēģinājuma visi rezultāti ir vienādi iespējami, tad notikuma A varbūtību aprēķina:
+
+P(A) = labvēlīgo notikumu skaits / visu notikumu kopskaits.
+
+Jebkura notikuma varbūtība ir nenegatīvs skaitlis, kas nepārsniedz 1.
+
+0 ≤ P(A) ≤ 1
+
+Neiespējama notikuma varbūtība P = 0. 
+
+Neiespējams notikums, piemēram, ar spēļu kauliņu uzmest 8.
+
+Droša (nenovēršama) notikuma varbūtība ir 1. 
+
+Nenovēršams notikums - tāds notikums, kurš izpildās vienmēr.
+
+Divus notikumus sauc par neatkarīgiem, ja viena notikuma iestāšanās neietekmē otra notikuma iestāšanos.
+
+Ja notikumi ir neatkarīgi, tad pēc definīcijas P(A|B)=P(A) un P(B|A)=P(B).
+
+Ja notikumi A un B ir neatkarīgi:
+
+P(A∩B)=P(A)⋅P(B)
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika/7-klase/ievads-varbutibu-teorija-9621/re-15abf7b6-fca7-47e1-a282-f01143024e21
+
+2. https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/kombinatorika-un-varbutiba-i-79256/summas-varbutiba-nosacita-varbutiba-79260/re-9a094bb5-8182-4dd4-b9af-d7a36b65d684

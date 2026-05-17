@@ -1,0 +1,9 @@
+Saliktos procentus (procentu procentus) izmanto tad, ja atlīdzība par naudas darījumu tiek sadalīta vairākos periodos, turklāt procenti tiek aprēķināti gan no sākuma kapitāla, gan no procentiem, kas uzkrājušies iepriekšējā periodā.
+
+Ja sākuma kapitālu apzīmē ar S un procentu likmi (%) ar r, iegūst formulu, ar kuru var aprēķināt noguldījuma summu pēc t gadiem
+
+A=S(1+r/100)^t.
+
+Lai aprēķinātu naudas summu, funkcijā ievieto atbilstošos parametrus un aprēķina skaitlisko vērtību.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/eksponentfunkcija-79269/eksponenciali-procesi-102675/re-269d7598-b86c-4244-be09-61c8df28fcab

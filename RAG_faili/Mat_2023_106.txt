@@ -1,0 +1,23 @@
+Ir eksponentvienādojumi, kurus var reducēt formā
+
+a^(f(x)) = a^(g(x)).
+
+Šī veida vienādojumus, izmantojot pakāpju īpašības, reducē pamatformā
+
+a^(f(x)) = a^(g(x)),
+
+no kurienes
+
+f(x)=g(x),
+
+jo vienādām pakāpēm ar vienādām bāzēm kāpinātāji ir vienādi.
+
+Eksponentvienādojuma risināšanas shēma parasti ir šāda:
+
+- pāriet uz vienādām bāzēm;
+- reducē vienādojumu uz pamatformu a^(f(x)) = a^(g(x));
+- pāriet uz algebrisku vienādojumu;
+- atrisina algebrisko vienādojumu;
+- pieraksta atbildi.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/eksponentfunkcija-79269/eksponentvienadojumi-79292/re-83ab74c3-bfa9-4bba-9265-7e21a1c13e1a

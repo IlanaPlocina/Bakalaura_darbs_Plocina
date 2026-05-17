@@ -1,0 +1,29 @@
+[RADIANI_UN_GRADI]
+
+Leņķu mērīšanai lieto arī citu vienību - radiānu.
+
+Par 1 radiānu lielu leņķi sauc centra leņķi, kura savelkošā loka garums ir vienāds ar riņķa līnijas rādiusu.
+
+Riņķa līnija satur 360° un tās garums ir 2πR, kur R ir riņķa līnijas rādiuss.
+
+Ja R=1, tad 2πR=2π.
+
+Iegūst, ka 360° atbilst 2π radiāniem, jeb 180° atbilst π radiānu.
+
+No tā izriet, ka:
+
+1° = π/180 (rad)
+
+1 rad = 180°/π ≈ 57,3°
+
+Iegaumē:
+
+360° = 2π
+
+180° = π
+
+Kā radiānus pārveidot par grādiem?
+
+Jāatceras, ka π = 180°.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometrisko-izteiksmju-parveidojumi-1002/redukcijas-formulas-13043/re-5cf91627-41cd-4be3-9791-a40ce51126f8

@@ -1,0 +1,10 @@
+Funkciju, kuras vispārīgais veids ir y=kx+b, kur k;b∈R, sauc par lineāru funkciju.
+
+Koeficientu k sauc par lineārās funkcijas grafika virziena koeficientu. 
+
+Tā kā lineāras funkcijas grafiks ir taisne, tad var teikt, ka k ir atbilstošās taisnes virziena koeficients.
+
+Taisnes virziena koeficientu var aprēķināt, izvēloties uz taisnes divus punktus.
+Ja M(x1;y1) un P(x2;y2), tad k=(y2−y1)/(x2−x1).
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/linijas-vienadojums-79250/lineara-funkcija-funkcijas-un-argumenta-pieaugums-79252/re-526d8e27-36b9-4d3c-9b36-828aa8026731

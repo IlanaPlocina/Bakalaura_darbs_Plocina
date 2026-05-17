@@ -1,0 +1,9 @@
+Lode ir ievilkta kubā, ja tā pieskaras visām kuba skaldnēm.
+
+Lodes centrs O atrodas kuba diagonāļu krustpunktā.
+
+Lodes un kuba kopīgie punkti ir sešu kuba skaldņu centri.
+
+Lodes rādiuss ir puse no kuba šķautnes: R=a/2 jeb a=2R.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/12-klase/geometrisko-kermenu-kombinacijas-2092/lodes-un-kuba-geometriskas-kombinacijas-24625/re-62571bd2-fa2a-4c4b-8590-83c3f20c3de9

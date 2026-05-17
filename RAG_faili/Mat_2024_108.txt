@@ -1,0 +1,9 @@
+Daudzskaldni, kura viena skaldne ir n-stūris, bet pārējās skaldnes ir trijstūri ar kopīgu virsotni, sauc par piramīdu.
+
+Šo n-stūri sauc par piramīdas pamatu, bet trijstūrus - par sānu skaldnēm.
+
+Sānu skaldņu kopīgo virsotni sauc par piramīdas virsotni.
+
+Atkarībā no pamata malu skaita piramīda var būt trijstūra, četrstūra, piecstūra utt.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/12-klase/piramidas-1237/neregulara-piramida-13088/re-828b5875-1843-457d-a4d9-fe50684dc86e

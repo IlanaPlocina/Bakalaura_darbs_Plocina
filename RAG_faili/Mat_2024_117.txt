@@ -1,0 +1,11 @@
+Vienādojumu cosx=a ērti atrisināt, izmantojot vienības riņķa līniju. 
+
+Tā kā pieskaitot vai atņemot vienu vai vairākas reizes pilnu leņķi 2π, atkal iegūst pagrieziena leņķi, kura kosinuss ir √2/2, tad vienādojumam ir bezgalīgi daudz atrisinājumu.
+
+cosx=1. Atrisinājums ir x=2πn jeb x=360°n
+
+cosx=0. Atrisinājums ir x=π/2+πn jeb x=90°+180°n
+
+cosx=−1. Atrisinājums ir x=π+2πn jeb x=180°+360°n
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometriskie-vienadojumi-un-pamatnevienadibas-6829/trigonometriskie-pamatvienadojumi-12977/re-7b7bd3da-dd4c-4dc0-a78c-2cd56c9ab321

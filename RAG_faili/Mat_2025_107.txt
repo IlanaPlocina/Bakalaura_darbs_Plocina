@@ -1,0 +1,29 @@
+Noskaidrosim, kā var iegūt taisnes vienādojumu y=kx+b, ja taisne iet caur dotu punktu P(x;y) un ir zināms tās virziena koeficients k.
+
+Sastādīsim vienādojumu taisnei, kas iet caur punktu P(3;−4) un šīs taisnes virziena koeficients k=5.
+
+Risinājums.
+
+Izmanto taisnes vienādojumu ar virziena koeficientu y=kx+b.
+
+Virziena koeficients ir zināms: k=5.
+
+Lai aprēķinātu koeficienta b vērtību, vienādojumā y=kx+b ievieto dotā punkta x un y vērtības, P(x;y)=(3;−4).
+
+−4=5⋅3+b
+−4=15+b
+b=−19
+
+Tātad taisnes vienādojums ir y=5x−19.
+
+Caur doto punktu novilktas taisnes vienādojumu, ja dots virziena koeficients k, nosaka sekojoši:
+
+izvēlas taisnes vienādojumu y=kx+b,
+
+aprēķina koeficienta b vērtību, ievietojot koeficienta k vērtību un taisnes punkta (x;y) koordinātas,
+
+uzraksta vienādojumu, ievietojot y=kx+b koeficientu k un b vērtības.
+
+Tomēr tas nav vienīgais risinājuma veids. Tālāk aplūkosim, kā vēl var uzrakstīt taisnes vienādojumu, ja taisne iet caur dotu punktu P(x;y) un ir zināms tās virziena koeficients k.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/linijas-vienadojums-79250/taisnes-vienadojums-79253/re-5e76285f-ff9e-4bb0-9958-2313cee7c309

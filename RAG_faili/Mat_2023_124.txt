@@ -1,0 +1,18 @@
+Par centra leņķi sauc tādu leņķi, kura virsotne atrodas riņķa līnijas centrā, bet malas krusto riņķa līniju.
+
+Tāpat kā jebkurš leņķis plaknē, arī centra leņķis var būt šaurs, taisns, plats, izstiepts, atvērts vai pilns. (Jo pilns riņķis ir 360°)
+Centra leņķis vienāds ar tā loka leņķisko lielumu, uz kuru šis centra leņķis balstās.
+
+Dots: O - riņķa līnijas centrs, ML - diametrs.
+
+Aprēķināt:
+
+∢MOL=180° (centra leņķis, kas balstās 180° uz diametru - loks jeb puse no riņķa)
+
+Par riņķa līnijā ievilktu leņķi sauc tādu leņķi, kura virsotne atrodas uz riņķa līnijas, bet malas krusto riņķa līniju.
+
+Ievilkts leņķis var būt šaurs, taisns vai plats. Piemēram, taisns ievilktais leņķis vienmēr balstās uz riņķa diametru.
+
+Ievilkts leņķis ir divas reizes mazāks nekā tam atbilstošais centra leņķis (nekā tā loka leņķiskais lielums, uz kura tas balstās).
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/9-klase/lenki-un-nogriezni-rinki-34904/nogriezni-lenki-loki-rinki-34906/re-b129bfcf-e459-4957-9839-7608aea49abb

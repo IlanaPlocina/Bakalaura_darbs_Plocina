@@ -1,0 +1,49 @@
+Līklīnijas trapece ir figūra, kuru ierobežo funkcija f(x), taisnes x=a un x=b un Ox ass.  
+
+Nosacījums: funkcija f(x) ir nepārtraukta un nenegatīva intervālā [a;b].
+
+Dota nepārtraukta funkcija intervālā [a;b].
+
+1. Ar  punktiem a=x1<x2<x3<...<xi<...<xn<xn+1=b  intervālu [a;b] sadala n vienādās daļās.
+
+2. Katrā iegūtā intervāla daļā izvēlas šī intervāla daļas sākumpunktu xi un aprēķina funkcijas vērtības  f(xi).
+ 
+3. Atrastās funkcijas vērtības f(xi) reizina ar tā nogriežņa garumu, kurā ņemts punkts xi, t.i., f(xi)⋅Δx.
+
+4. Atrod visu reizinājumu summu ∑i=1nf(xi)⋅Δx.
+ 
+Pēdējo izteiksmi sauc par funkcijas f(x) integrālsummu intervālā [a;b].
+ 
+5. Atrod integrālsummas robežu, kad Δx→0: limΔx→0∑i=1nf(xi)Δx.
+
+Noteiktā integrāļa īpašības:
+
+∫ₐᵃ f(x) dx = 0
+
+∫ₐᵇ f(x) dx = − ∫ᵇₐ f(x) dx
+
+Ja f(x) ≥ 0 intervālā [a; b], tad
+
+∫ₐᵇ f(x) dx ≥ 0
+
+Ja c ∈ [a; b], tad
+
+∫ₐᵇ f(x) dx = ∫ₐᶜ f(x) dx + ∫ᶜᵇ f(x) dx
+
+∫ₐᵇ (f(x) ± φ(x)) dx = ∫ₐᵇ f(x) dx ± ∫ₐᵇ φ(x) dx
+
+∫ₐᵇ k·f(x) dx = k ∫ₐᵇ f(x) dx
+
+Noteiktā integrāļa aprēķināšana:
+
+∫ₐᵇ f(x) dx = F(b) − F(a)
+
+kur
+
+F′(x) = f(x),  tātad F(x) ir funkcijas f(x) primitīvā funkcija.
+
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-ii/integralis-un-ta-lietojums-79327/noteiktais-integralis-un-integrala-lietojums-fizika-79365/re-d52b8b76-83bf-4d9f-a9cf-dc125129d127
+
+2. https://estudijas.rtu.lv/file.php/70090/Lekciju_konspekts/Noteiktais_integralis.pdf

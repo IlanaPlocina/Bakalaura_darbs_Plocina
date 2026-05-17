@@ -1,0 +1,27 @@
+Ja elementu A var izvēlēties k veidos un pēc tam otru elementu B, neatkarīgi no A izvēles, var izvēlēties m dažādos veidos, tad elementu pāri A un B var izvēlēties k⋅m veidos.
+
+Likums ir spēkā arī tad, ja jāizvēlas pa vienam elementam no vairāk nekā divām kopām.
+
+Par nesakārtotām izlasēm sauc tādas kopas apakškopas, kurās nav svarīga elementu secība.
+
+Ja runa ir par nesakārtotām izlasēm, tad {#;Δ} un {Δ;#} ir vienādas izlases.
+
+No 10 skolēniem jāizvēlas 2 dežuranti.
+
+Mainot vietām abus dežurantus, tas būs tas pats dežurantu pāris.
+
+Par kombinācijām no n elementiem pa m elementiem (m≤n) sauc nesakārtotu dotās kopas m elementu izlasi.
+
+Kombināciju skaitu apzīmē ar Cmn.
+
+Kombinācijas aprēķina pēc formulas
+
+Cmn=n!/(m!(n−m)!).
+
+Pieejams:
+1. https://www.uzdevumi.lv/p/matematika/11-klase/kombinatorikas-elementi-2162/kombinatorikas-pamatlikumi-33227/re-f23803dd-e316-4515-94bb-0cbf4b068049
+
+2. https://www.uzdevumi.lv/p/matematika/11-klase/kombinatorikas-elementi-2162/kombinacijas-permutacijas-variacijas-33228/re-0aba0cb6-d171-436a-94f8-6d7d4b156b78
+
+3. https://www.uzdevumi.lv/p/matematika/11-klase/kombinatorikas-elementi-2162/kombinacijas-permutacijas-variacijas-33228/re-ef7e8a09-fd37-488b-b7c9-4a05d8d1fa38
+

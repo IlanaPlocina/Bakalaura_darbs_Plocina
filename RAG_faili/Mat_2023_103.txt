@@ -1,0 +1,27 @@
+Šajā tematā aplūkosim, kā summu pārveido par reizinājumu jeb - kā izteiksmi sadala reizinātājos.
+ 
+Sadalīt reizinātājos var ar dažādiem paņēmieniem. 
+
+Viens no tiem ir kopīgā reizinātāja iznešana pirms iekavām. 
+
+To lieto, ja visi izteiksmes locekļi satur vienu un to pašu reizinātāju.
+ 
+Pirms iekavām var iznest skaitli, mainīgo, mainīgā pakāpi, monomu, binomu.
+ 
+1) Pirms iekavām iznes skaitli
+6x−12=6(x−2)
+8x−12=4⋅2x−4⋅3=4(2x−3)
+ 
+2) Pirms iekavām iznes mainīgo
+3x−7x2=x(3−7x)
+ 
+3) Pirms iekavām iznes mainīgā pakāpi
+7y5+6y2=y2(7y3+6) 
+ 
+4) Pirms iekavām iznes skaitļa un mainīgā reizinājumu (monomu)
+3x2−6x=3x(x−2)
+ 
+5) Pirms iekavām iznes binomu
+3(x−1)+x(x−1)=3(x−1)+x(x−1)=(x−1)(3+x)
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/9-klase/ka-izmanto-izteiksmju-sadalisanu-reizinatajos-31850/polinoma-sadalisana-reizinatajos-iznesot-kopigo-reizinataju-pirms-iekavam-58834/re-749f7534-8771-4d3f-b21a-7dabfd6b858a

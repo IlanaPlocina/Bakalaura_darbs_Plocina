@@ -1,0 +1,15 @@
+Funkcijas y = sinx grafiku sauc par sinusoīdu.
+
+Funkcijas definīcijas apgabals
+D(y) = (−∞; +∞).
+
+Funkcijas y = sinx vērtību apgabals
+E(y) = [−1; 1].
+
+Maksimuma vērtība:
+y = 1.
+
+Minimuma vērtība:
+y = −1.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/sinusa-un-kosinusa-funkcijas-79267/trigonometriskas-funkcijas-to-ipasibas-79283/re-c385bf89-d748-461d-9ecd-bb72b3907016

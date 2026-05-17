@@ -1,0 +1,17 @@
+Ja dots nogrieznis M1M2 un M1M = MM2 jeb M1M : MM2 = 1.
+
+Aprēķinu formulas.
+
+Uz taisnes
+x = (x1 + x2) / 2
+
+Plaknē
+x = (x1 + x2) / 2
+y = (y1 + y2) / 2
+
+Telpā
+x = (x1 + x2) / 2
+y = (y1 + y2) / 2
+z = (z1 + z2) / 2
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/vektori-un-kustiba-79245/attalums-starp-diviem-punktiem-79251/re-c7549b7e-0714-4b04-a50f-f5874d055fb4

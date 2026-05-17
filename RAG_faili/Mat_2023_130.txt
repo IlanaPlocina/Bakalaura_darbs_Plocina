@@ -1,0 +1,21 @@
+Varbūtību teorijā var aplūkot arī tādus gadījuma notikumus, kuri ir uzdoti ar skaitļiem. 
+
+Piemēram, spēļu kauliņa mešanas rezultātus varam interpretēt kā skaitļus 1,2,3,4,5,6. 
+
+Piemēram, monētas mešanas iznākumu ģērbonis varam apzīmēt ar 1, bet cipars - ar 0.
+
+Tālāk aplūkosim tikai tādus gadījuma notikumus, kurus var izteikt ar skaitli.
+
+Par gadījuma lielumu sauc lielumu, kurš mēģinājuma rezultātā var pieņemt tikai vienu skaitlisku vērtību, kura ir atkarīga no liela gadījuma notikumu skaita, un tāpēc šo lielumu nav iespējams iepriekš paredzēt.
+
+Gadījuma lielumu sauc par diskrētu, ja tas var pieņemt tikai vērtības no kopas, kas sastāv no atsevišķiem izolētiem skaitļiem, kurus var sanumurēt.
+
+Par diskrēta gadījuma lieluma sadalījuma likumu sauc sakarību, kas saista gadījuma lieluma vērtības ar to varbūtībām. 
+
+Sadalījuma likumu var uzdot ar tabulu, formulu vai grafiku.
+
+Pieņemsim, ka diskrēts gadījuma lielums X pieņem vērtības x1,x2,...,xn. 
+
+Ir dotas varbūtības P(X=xi)=pi, turklāt varbūtībām izpildās nosacījums, ka ∑i=1npi=1.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-ii/varbutiba-un-statistika-ii-79287/gadijuma-lieluma-sadalijumi-bernulli-formula-79357/re-5bdab735-1d85-4548-832a-8d714139fe9c

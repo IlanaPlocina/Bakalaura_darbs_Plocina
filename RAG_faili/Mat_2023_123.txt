@@ -1,0 +1,17 @@
+Trapeci, kuras sānu malas ir vienāda garuma, sauc par vienādsānu trapeci.
+
+Leņķi pie vienādsānu trapeces pamata ir vienādi.
+
+Vienādsānu trapeces diagonāles ir vienādas.
+
+Četrstūri, kura visas malas pieskaras riņķa līnijai, sauc par apvilktu četrstūri, bet riņķa līniju - par četrstūrī ievilktu riņķa līniju.
+
+Ap riņķa līniju apvilkta četrstūra pretējo malu summas ir vienādas:
+
+a + c = b + d.
+
+Riņķa līnijai apvilkta trapece, kurai pretējo malu summas ir vienādas.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/8-klase/trapece-viduslinija-4932/re-944abcd9-fa96-4253-afe2-951d151cf21c
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/10-klase/rinki-un-daudzsturi-1230/ievilkts-un-apvilkts-cetrsturis-13003/re-cd795fc9-16d4-4ec8-a778-5e18e8b39b6d

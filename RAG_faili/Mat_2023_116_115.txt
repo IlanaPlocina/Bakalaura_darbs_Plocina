@@ -1,0 +1,28 @@
+Notikuma A varbūtību, ja notikums B ir realizējies, sauc par notikuma A nosacīto varbūtību un apzīmē P(A|B).
+
+Nosacītā varbūtība P(A|B) - notikuma A varbūtība pie nosacījuma, ka notikums B ir realizējies.
+
+Urnā ir 7 bumbiņas. No tām 5 baltas un 2 melnas bumbiņas. Vispirms no urnas izņēma vienu bumbiņu un pēc tam (neatliekot pirmo bumbiņu atpakaļ) – izvilka otru bumbiņu.
+
+Aplūko šādus notikumus: A - otrā izņemtā bumbiņa ir balta, B - pirmā izņemtā bumbiņa ir balta.
+
+Varbūtība pirmo izņemt baltu bumbiņu ir P(B)=5/7.
+
+Tagad urnā ir atlikušas 6 bumbiņas: 4 baltas un 2 melnas.
+
+Ja pirmā bumbiņa ir izņemta balta, tad varbūtība, ka otrā būs balta ir P(A|B)=4/6.
+
+Ja notikumi A un B ir neatkarīgi, tad to iestāšanās varbūtības ir vienādas ar nosacītajām varbūtībām.
+
+P(A)=P(A|B) un P(B)=P(B|A).
+
+Notikumi A un B ir neatkarīgi, ja P(A|B)=P(A) un P(B|A)=P(B)
+
+Ja mēģinājuma visi rezultāti ir vienādi iespējami, tad notikuma A varbūtību aprēķina:
+
+P(A) = labvēlīgo notikumu skaits / visu notikumu kopskaits.
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/kombinatorika-un-varbutiba-i-79256/summas-varbutiba-nosacita-varbutiba-79260/re-e85bbcf1-7d19-4a78-90b5-965433f3956d
+
+2. https://www.uzdevumi.lv/p/matematika/7-klase/ievads-varbutibu-teorija-9621/re-15abf7b6-fca7-47e1-a282-f01143024e21

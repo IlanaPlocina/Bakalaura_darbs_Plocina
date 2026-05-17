@@ -1,0 +1,25 @@
+sin²α + cos²α = 1
+
+tg α = sin α / cos α
+
+ctg α = cos α / sin α
+
+sin 2α = 2 sin α · cos α
+
+cos 2α = cos²α − sin²α
+
+tg 2α = (2 tg α) / (1 − tg²α)
+
+sin(α ± β) = sin α cos β ± cos α sin β
+
+cos(α + β) = cos α cos β − sin α sin β
+
+cos(α − β) = cos α cos β + sin α sin β
+
+sin α cos β = [sin(α + β) + sin(α − β)] / 2
+
+cos α cos β = [cos(α − β) + cos(α + β)] / 2
+
+sin α sin β = [cos(α − β) − cos(α + β)] / 2
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometrisko-izteiksmju-parveidojumi-1002/trigonometriskie-parveidojumi-13048/re-4d65abc8-85ae-4c87-b586-b4073fc4995d

@@ -1,0 +1,34 @@
+Algebrisko daļu var saīsināt tikai tad, ja tās skaitītājam un saucējam ir kopīgi reizinātāji. 
+
+Lai saīsinātu daļu, kuras skaitītājs vai saucējs ir polinoms, tas jāsadala reizinātājos.
+
+Polinomu var pārveidot par reizinājumu dažādi:
+
+iznesot kopīgo reizinātāju pirms iekavām;
+izmantojot saīsinātās reizināšanas formulas;
+izmantojot grupēšanu.
+
+Daļu saīsināšana, izmantojot saīsinātās reizināšanas formulas:
+
+Kvadrātu starpības formula
+a²−b²=(a−b)(a+b);
+
+Summas kvadrātu formula
+(a+b)²=a²+2ab+b²;
+
+Starpības kvadrātu formula
+(a−b)²=a²−2ab+b²;
+
+Kubu summas formula
+a³+b³=(a+b)(a²−ab+b²);
+
+Kubu starpības formula
+a³−b³=(a−b)(a²+ab+b²).
+
+Piemērs:
+
+x²−4 / x²−4x+4 = (x−2)(x+2) / (x−2)²
+
+Tā kā daļas kopīgais reizinātājs ir binoms (x−2), tad to saīsina.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/9-klase/dalveida-izteiksmes-26301/algebrisko-dalu-saisinasana-un-paplasinasana-26310/re-ff060196-3502-4ae4-916f-677d1631994e

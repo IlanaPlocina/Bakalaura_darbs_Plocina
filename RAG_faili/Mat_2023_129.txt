@@ -1,0 +1,35 @@
+Dalīt var ne tikai skaitļus, bet arī polinomus. 
+
+Jebkuriem diviem polinomiem P(x) un Q(x) vienmēr var viennozīmīgi atrast tādus polinomus S(x) un R(x), ka izpildās vienādība P(x)=Q(x)⋅S(x)+R(x), kur polinoma R(x) pakāpe ir mazāka nekā polinoma Q(x) pakāpe.
+
+Polinomu S(x) sauc par nepilno dalījumu, bet R(x) sauc par atlikumu.
+
+Polinomu dalījumu var uzrakstīt kā polinoma un īstas algebriskas daļas summu:
+
+P(x)/Q(x)=S(x)+R(x)/Q(x)
+
+Ja atlikuma nav (R(x)=0), tad saka, ka polinomi dalās bez atlikuma.
+
+Polinomu dalīšanu veic analoģiski vairākciparu skaitļu dalīšanai.
+
+Izdalīsim polinomus (x2−5x+2):(x−2).
+
+Risinājums.
+
+Izvēlamies dalījuma polinoma locekļus tā, lai dalāmam polinomam katrā solī pazeminātos pakāpe.
+
+1) Vispirms dalījumā izvēlas x, jo x(x−2)=x2−2x.
+
+Pēc pirmā soļa atlikumā paliek −3x, nones lejā +2.
+
+2) Dalījumā izvēlas −3, jo −3(x−2)=−3x+6.
+
+Tālāk dalīšanu neturpina, jo atlikuma pakāpe ir zemāka par dalītāja pakāpi.
+
+Izpildot dalīšanu (x2−5x+2):(x−2), ieguvām nepilno dalījumu x−3 un atlikumu (−4).
+
+Dalījumu var pierakstīt kā divu polinomu vienādību:
+
+x2−5x+2=(x−2)(x−3)−4
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-ii/dalveida-funkcija-un-algebriskie-parveidojumi-79326/polinoma-dalisana-ar-polinomu-bezu-teorema-79363/re-08f9e5c2-06e9-4f93-893a-a919123fd7f7

@@ -1,0 +1,32 @@
+Par daļveida nevienādībām sauc tādas nevienādības, kurās mainīgais atrodas saucējā.
+
+Risinot daļveida nevienādību, neatkarīgi no metodes,
+
+1) visus locekļus pārnes vienā pusē (lai labajā pusē būtu 0);
+
+2) kreisās puses izteiksmi pārveido par daļu (izveido kopsaucēju).
+
+Tādējādi nevienādību iegūst vienā no formām:
+
+f(x)/g(x) < 0
+f(x)/g(x) > 0
+f(x)/g(x) ≤ 0
+f(x)/g(x) ≥ 0
+
+Daļas vērtība ir pozitīva tad un tikai tad, ja skaitītāja un saucēja izteiksmēm ir vienādas zīmes:
+
+f(x)/g(x) > 0
+f(x) > 0 un g(x) > 0
+vai
+f(x) < 0 un g(x) < 0
+
+Daļas vērtība ir negatīva tad un tikai tad, ja skaitītāja un saucēja izteiksmēm ir dažādas zīmes:
+
+f(x)/g(x) < 0 
+f(x) > 0 un g(x) < 0
+vai
+f(x) < 0 un g(x) > 0
+
+Ja daļveida nevienādība ir nestingra, jāievēro definīcijas apgabals - daļas saucējs nedrīkst būt 0.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/algebriskas-nevienadibas-999/intervalu-metode-dalveida-nevienadibas-4531/re-f2dfa777-3eab-4f59-8b12-ff9059fed5bb

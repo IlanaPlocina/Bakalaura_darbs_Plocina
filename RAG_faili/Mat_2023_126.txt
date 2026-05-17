@@ -1,0 +1,19 @@
+Vienādojumus tgx=a un ctgx=a ērti atrisināt, izmantojot vienības riņķa līniju. 
+
+Trigonometriskais vienības riņķis ir dots matemātikas eksāmena formulu lapā.
+
+Tā kā abas vērtības savstarpēji atšķiras par tangensa funkcijas periodu π(180°), tad abas atbildes var apvienot.
+
+Ja tgx=1,
+
+x=π/4+πn jeb x=45°+180°n, n∈Z
+
+Piemērs:
+
+Ievēro, kā pieraksta tangensa atbildi, ja leņķis ir 4. kvadrantā. Ņem vērā, ka pagrieziena leņķim jābūt no intervāla (−π/2;π/2).
+
+tgx=−√3
+
+x=−5π/3+πn∈Z jeb x=−60°+180°n∈Z
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometriskie-vienadojumi-un-pamatnevienadibas-6829/trigonometriskie-pamatvienadojumi-12977/re-20b837b5-9c88-4d70-81cb-2764d63de711

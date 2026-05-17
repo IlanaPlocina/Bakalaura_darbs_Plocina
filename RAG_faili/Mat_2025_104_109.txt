@@ -1,0 +1,19 @@
+Varbūtību lieto, lai apzīmētu kāda notikuma realizēšanās vai nerealizēšanās ticamības pakāpi.
+
+Varbūtība ir gadījuma notikuma īpašība, un mēs, izveidojot atbilstošu matemātisko aparātu, panākam, lai šo īpašību apraksta konstants skaitlis.
+
+Klasiskais varbūtību aprēķināšanas paņēmiens
+
+Ja mēģinājuma visi rezultāti ir vienādi iespējami, tad notikuma A varbūtību aprēķina:
+
+P(A) = labvēlīgo notikumu skaits/ visu notikumu kopskaits.
+
+Jebkura notikuma varbūtība ir nenegatīvs skaitlis, kas nepārsniedz 1.
+
+0≤P(A)≤1
+
+Neiespējama notikuma varbūtība P = 0.
+
+Droša (nenovēršama) notikuma varbūtība ir 1.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/7-klase/ievads-varbutibu-teorija-9621/re-15abf7b6-fca7-47e1-a282-f01143024e21

@@ -1,0 +1,40 @@
+Par apgrieztās proporcionalitātes funkciju sauc funkciju 
+y = k/xⁿ, kur k ir konstante un nav vienāda ar nulli.
+
+Līkne sastāv no diviem zariem.
+
+Sastādot tabulu, izvēlas vismaz 6 "x" vērtības.
+
+Nedrīkst izvēlēties nulli!
+
+Ja k > 0, tad hiperbola atrodas I un III kvadrantā.
+
+Ja k < 0, tad hiperbola atrodas II un IV kvadrantā.
+
+Ir divu veidu saucēji:
+
+1) kur n ir nepāra skaitlis un n ≠ 0.
+
+Funkcijai ir vertikālā asimptota x = 0, jo definīcijas apgabals ir
+
+x ∈ (−∞; 0) ∪ (0; +∞),
+
+kā arī horizontālā asimptota y = 0, jo vērtību apgabals ir
+
+y ∈ (−∞; 0) ∪ (0; +∞)
+
+2) kur n ir pāra skaitlis un n ≠ 0.
+
+Šādas funkcijas atrodas 1. un 2. kvadrantā.
+
+Funkcijai ir vertikālā asimptota x = 0, jo definīcijas apgabals ir
+
+x ∈ (−∞; 0) ∪ (0; +∞),
+
+kā arī horizontālā asimptota y = 0.
+
+Funkcijas vērtību apgabals ir
+
+y ∈ (0; +∞)
+
+Pieejams: https://lv.wikipedia.org/wiki/Funkcija

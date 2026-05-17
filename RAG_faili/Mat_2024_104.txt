@@ -1,0 +1,12 @@
+
+Katru daļu izsaka divi skaitļi (daļas locekļi) - skaitītājs un saucējs.
+
+Daļas pierakstā izmanto svītru, ko sauc par daļsvītru.
+
+Skaitītāju raksta virs daļsvītras, bet saucēju - zem daļsvītras.
+
+Daļas saucējs nosauc, cik vienādās daļās veselais ir sadalīts.
+
+Daļas skaitītājs saskaita, cik vienādo daļu paņemts.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/5-klase/parastas-dalas-jedziens-4281/re-4f9ca099-a87e-4420-9826-3b30750edaea

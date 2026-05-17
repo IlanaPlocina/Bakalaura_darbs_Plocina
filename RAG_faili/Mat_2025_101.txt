@@ -1,0 +1,26 @@
+Taisnstūra paralēlskaldņa izmēru nosaka trīs šķautņu, kas iziet no vienas virsotnes, garumi.
+
+Šo šķautņu garumus sauc par platumu, garumu un augstumu. Vienā vārdā tās sauc par dimensijām.
+
+Izmantojot paralēlskaldņa izmērus, var aprēķināt tā tilpumu.
+
+Tilpums rāda, cik daudz vielas var iepildīt dotajā traukā.
+
+Taisnstūra paralēlskaldņa tilpumu aprēķina, sareizinot visas trīs dimensijas.
+
+Tilpums ir vienāds ar garuma, platuma un augstuma reizinājumu.
+
+Ja garumu apzīmē ar burtu a, platumu ar burtu b, bet augstumu ar burtu c, tad tilpumu V aprēķina ar formulu:
+
+V=a⋅b⋅c
+
+Ja pusriņķis rotē ap diametru, tad iegūst lodi, kuru sauc par rotācijas ķermeni.
+
+Lodes tilpumu aprēķina pēc formulas V=4/3πR³, kur R - lodes rādiuss.
+
+Lodes virsmas laukumu aprēķina izmantojot formulu S=4πR².
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika/6-klase/taisnstura-paralelskaldnis-59006/taisnstura-paralelskaldna-tilpums-59445/re-a5742f0c-1080-47c9-974c-ee052a1dfcd8
+
+2. https://www.uzdevumi.lv/p/matematika/9-klase/telpiskie-kermeni-3495/cilindrs-konuss-lode-34890/re-bd81b5c6-ae59-4bb1-a035-498eef1813a2

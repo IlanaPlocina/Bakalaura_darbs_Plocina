@@ -1,0 +1,9 @@
+Koka diagramma ir viens no veidiem, kā var parādīt un sistematizēt visus savienojumus.
+
+Ar koka diagrammu tiek veikta pilnā pārlase.
+
+Ar koka diagrammu ieguvām dažādus rezultātus, jo tika aplūkoti divi atšķirīgi savienojumu veidi: izlase, kurā ir svarīga elementu secība un izlase, kurā nav svarīga elementu secība.
+
+No ciparu kopas sakārtotas izlases ir telefona numuri, kodi, skaitļi, jo izmainot ciparu secību rodas cita izlase.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/7-klase/ka-nosaka-kopas-visus-elementus-aprekina-notikuma-varbutibu-32423/kopas-eilera-venna-diagramma-pilna-parlase-32475/re-1d9be8e7-8032-4435-b0d7-b166ce00695a

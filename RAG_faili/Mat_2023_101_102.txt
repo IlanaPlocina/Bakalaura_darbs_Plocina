@@ -1,0 +1,21 @@
+Funkcija ir definēta tad, ja norādīts piekārtojuma likums, pēc kura katrai argumenta vērtībai var atrast atbilstošo funkcijas vērtību. 
+
+Piekārtojuma likumu var uzdot:
+ar vārdiem;
+ar tabulu;
+ar formulu;
+ar grafiku.
+
+Ja funkcionālo sakarību starp diviem mainīgajiem x un y pieraksta šādi y=f(x), tad y=f(x) sauc par funkcijas formulu, x par neatkarīgo mainīgo jeb argumentu, bet y par atkarīgo mainīgo jeb funkciju.
+
+Ja dota funkcijas vērtība, tad jārisina vienādojums f(x)=y.
+
+Lasa: y ir vienāds ar f no x. Pierakstā burts f norāda likumu, pēc kura katrai argumenta x vērtībai var noteikt atbilstošo y vērtību.
+
+Par funkcijas y=f(x) definīcijas apgabalu sauc visas tās neatkarīgā mainīgā x vērtības, ar kurām izteiksmei f(x) ir jēga.
+
+Lai uzzīmētu funkcijas y=f(x) grafiku, koordinātu plaknē atliek punktus (x, f(x)), kur x ir funkcijas arguments, bet y - atbilstošā funkcijas vērtība. 
+
+Visi šie punkti veido funkcijas grafiku.
+
+Pieejams: https://lv.wikipedia.org/wiki/Funkcija

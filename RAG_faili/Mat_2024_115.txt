@@ -1,0 +1,15 @@
+Vienādojumu sinx=a ērti atrisināt, izmantojot vienības riņķa līniju. 
+
+Trigonometriskais vienības riņķis ir dots matemātikas eksāmena formulu lapā.
+
+Ievēro, ka pagrieziena leņķim pieskaitot vai atņemot vienu vai vairākas reizes pilnu leņķi (periods 360° jeb 2π), atkal nonāksim tajā pašā vienības riņķa punktā.
+
+Iegaumē sekojošu pamatvienādojumu atrisinājumus:
+
+sinx=1. Atrisinājums ir x=π2+2πn jeb x=90o+360on, n∈Z
+
+sinx=0. Atrisinājums ir x=πn jeb x=180on
+
+sinx=−1. Atrisinājums ir x=−π2+2πn jeb x=−90o+360on
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/11-klase/trigonometriskie-vienadojumi-un-pamatnevienadibas-6829/trigonometriskie-pamatvienadojumi-12977/re-c25eca00-722d-48ce-9154-2b328bebd22c

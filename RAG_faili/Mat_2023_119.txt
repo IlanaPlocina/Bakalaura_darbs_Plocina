@@ -1,0 +1,28 @@
+Vidējais aritmētiskais ir visu datu kopas vidējā vērtība, ko aprēķina, datu kopējo summu izdalot ar datu vienību skaitu.
+
+Ja divas izteiksmes savieno ar nevienādības zīmi, rodas nevienādība.
+
+Nevienādībai parasti ir bezgala daudz atrisinājumu.
+
+Tās atrisinājumu var uzrakstīt kā skaitļu intervālu.
+
+Pieņemtie apzīmējumi
+ 
+Attēlojot nevienādības atrisinājumu uz skaitļu ass vai pierakstot to ar intervālu, jāievēro pieņemtie apzīmējumi.
+
+Nestingrās nevienādības zīmes ≤ vai ≥
+
+galapunkts ir ieskaitīts
+
+[ vai ] kvadrātiekavas
+
+Stingrās nevienādības zīmes < vai >
+
+galapunkts nav ieskaitīts
+
+( vai ) apaļas iekavas
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika-pec-skola2030-paraugprogrammas/matematika-i/dalveida-vienadojumi-un-nevienadibas-79266/atkartojums-par-linearu-un-kvadratnevienadibu-risinasanu-95185/re-8eedf222-c9e3-417a-a4b7-1a636a640165
+
+2. https://www.uzdevumi.lv/p/matematika/8-klase/ievads-statistika-3182/re-5e23b44f-270e-46bb-9601-9243c5877b45

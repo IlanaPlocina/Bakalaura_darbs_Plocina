@@ -1,0 +1,36 @@
+Piramīdu, kuras pamats ir regulārs daudzstūris un piramīdas augstums projicējas pamata centrā, sauc par regulāru piramīdu.
+
+Regulāras piramīdas sānu skaldnes ir vienādi vienādsānu trijstūri.
+
+Regulāras piramīdas sānu skaldnes augstumu sauc par apotēmu.
+
+Regulāras četrstūra piramīdas pamatā ir kvadrāts.
+
+Augstums OM projicējas diagonāļu krustpunktā.
+
+ML ir apotēma.
+
+∡MLO — divplakņu kakts pie pamata.
+
+Regulāras piramīdas sānu virsmas aprēķināšanai ir divas formulas:
+
+Ss=1/2Ppamatam⋅h
+
+un
+
+Ss=Spamatam/cosφ,
+
+h ir apotēma, φ — divplakņu kakta leņķis pie pamata.
+
+Piramīdas tilpums ir V=1/3Spam.⋅H, kur H ir piramīdas augstums.
+
+Uzmanies — nesajauc h jeb apotēmu ar H jeb piramīdas augstumu!
+
+Biežāk lietojamās laukuma formulas
+
+Kvadrāts: S=a²
+
+Pieejams: 
+1. https://www.uzdevumi.lv/p/matematika/12-klase/piramidas-1237/regulara-cetrstura-un-sesstura-piramida-13106/re-1abb8595-94ec-4ac6-ba30-cefcb2a9a43a
+
+2. https://www.uzdevumi.lv/p/matematika/11-klase/prizma-1236/prizmas-virsmas-laukums-42290/re-f500a0dd-bc03-482f-ae25-93607d786452

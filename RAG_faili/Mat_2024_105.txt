@@ -1,0 +1,13 @@
+Virkni (bn), kurā katru nākamo locekli iegūst, iepriekšējo locekli reizinot ar vienu un to pašu skaitli q, sauc par ģeometrisko progresiju.
+
+Ja virkne (bn) ir ģeometriskā progresija, tad jebkurai naturālai n vērtībai ir pareiza sakarība: bn+1=bn⋅q.
+
+Skaitli q sauc par ģeometriskās progresijas kvocientu.
+
+Ģeometriskās progresijas vispārīgo locekli bn aprēķina, izmantojot formulu:
+
+bn=b1⋅qn−1,
+
+kur n - virknes locekļa numurs (kārtas numurs), b1 - virknes pirmais loceklis, q - kvocients.
+
+Pieejams: https://www.uzdevumi.lv/p/matematika/10-klase/virknes-3399/geometriska-progresija-12965/re-c1d64995-ac8e-4dfc-a2d8-23d7d7a98ea1
